@@ -1,2 +1,2 @@
 # seaborn_tutorial
-Jupyter Examples of Seaborn Plots.
+Jupyter Examples of a Wide Range Of Seaborn Plots.
